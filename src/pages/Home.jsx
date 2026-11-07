@@ -6,7 +6,8 @@ const Home = () => {
         <div className=' w-1/2 m-40 '>
            <p className="font-bold text-3xl py-3"> My Name is Manzi Yvan</p> 
 
-           <p className="text-[#9C9C9C] py-3 text-sm ibm-mono"> Intro text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+           <p className="text-[#9C9C9C] py-3 text-sm ibm-mono">   A passionate developer who is always learning. I enjoy creating simple,
+  modern interfaces and turning creative ideas into working projects.</p>
            <button className="bg-[#3F8E00] p-3 px-8 ibm-mono shadow-2xl shadow-emerald-400">
             View my projects
            </button>
