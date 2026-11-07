@@ -8,7 +8,7 @@ const Home = () => {
 
            <p className="text-[#9C9C9C] py-3 text-sm ibm-mono"> Intro text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
            <button className="bg-[#3F8E00] p-3 px-8 ibm-mono shadow-2xl shadow-emerald-400">
-            Let’s get started
+            View my projects
            </button>
         </div>
          <div className=' w-1/2 m-30'>
