@@ -14,7 +14,7 @@ function App() {
     <About/>
     <Projects/>
     <div id='projects' className='bg-[#080808] text-white px-40 py-20 min-h-screen'>
-      <p className='font-bold text-3xl'></p>
+      
     </div>
     </>
   )
