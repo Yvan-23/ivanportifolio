@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='bg-[#080808] w-full h-80 flex text-white  '>
+    <div className='bg-[#080808] w-full h-90 flex text-white  '>
         <div className=' w-1/2 m-40 '>
            <p className="font-bold text-3xl py-3"> Hi, I'm <span className="text-white">Manzi Yvan</span></p> 
 
