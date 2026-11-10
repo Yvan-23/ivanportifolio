@@ -17,10 +17,10 @@ const About = () => {
         Spring Boot, React, Tailwind, and PostgreSQL. I love learning and
         building impactful tech. 
         </p> 
-        <a href='/cv.pdf' target='_blank' className='border border-[#3F8E00] text [#3F8E00]   p-3 px-8 ibm-mono inline-block hover:bg-[#3F8E00] hover:text-white transition-colors'>
+        <a href='/cv.pdf' target='_blank' className='border  border-[#3F8E00] text [#3F8E00]   p-3 px-8 ibm-mono inline-block hover:bg-[#3F8E00] hover:text-white transition-colors'>
         View my CV
             </a> 
-            <p className='font-bold text-3xl mt-10 pb-6'> My<span className='text-white'> Skills </span>
+            <p className='font-bold text-3xl mt-10 pb-6'> My<span className= 'text-white'> Skills </span>
             </p>
             <div className='flex flex-wrap  gap-4 max-w-3xl'>
                 { skills.map((skill)=> (
