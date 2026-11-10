@@ -10,7 +10,7 @@ const skills=[
   'Git & GitHub',
 ]
 const About = () => {
-    return( <div id='about' className='bg-[#080808] text-white w-full px-40 py-20 scroll-mt-16'>
+    return( <div id='about' className='bg-[#080808] text-white w-full px-40 pt-20 pb-6 scroll-mt-16'>
         <p className='font-bold text-3xl pb-6'>About <span className="text-white">Me</span>
         </p> 
         <p className='text-[#9C9C9C] text-sm ibm-mono pb-8 max-w-2xl leading-relaxed'>  I'm a software developer focused on full-stack development using Java
